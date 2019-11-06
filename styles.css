@@ -80,6 +80,7 @@ html[dir] .message-in ._2Hp95 ._3qAvH,
 html[dir] .cGLoy,
 html[dir] .ZP8RM,
 html[dir] ._2zCfw,
+html[dir] ._11p3Q,
 ::-webkit-scrollbar-track,
 ._1LsoD {
   background-color: #000000 !important;
@@ -109,6 +110,10 @@ html[dir] ._2WP9Q {
 html[dir] ._2UaNq._3mMX1:after,
 html[dir] ._2UaNq:hover:after {
   border-top: 0 !important;
+}
+
+html[dir] ._2DxRd {
+  border-top: 1px solid #000000 !important;
 }
 
 /* icono de video en barra lateral */
